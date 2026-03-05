@@ -1,0 +1,8 @@
+# IMDB Top 1000 — Data Visualization Assignment
+# Python 3.10+ required
+# tkinter is part of the Python standard library (no pip install needed).
+# On Linux/Ubuntu, if tkinter is missing: sudo apt-get install python3-tk
+
+pandas>=2.0.0
+matplotlib>=3.7.0
+mplcursors>=0.5.2
